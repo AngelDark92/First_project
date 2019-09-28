@@ -1,3 +1,4 @@
+#this was made only with python 3.7 using sublime text and running python on anaconda.
 i=0
 while i!=2:
 	i=0
